@@ -1,0 +1,9 @@
+--- !ruby/object:Gotchi
+age: 2016-04-10 17:54:26.929458000 +01:00
+lifecycle: :born
+name: Garganol
+gender: :female
+connections: []
+happy: 50
+hungry: 10
+discipline: 50
